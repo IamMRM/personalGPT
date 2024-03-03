@@ -1,1 +1,0 @@
-print("Hello world to new generation of programmers!")
